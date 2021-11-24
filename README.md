@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Somil's github stats](https://github-readme-stats.vercel.app/api?username=somil24&show_icons=true&count_private=true&show_icons=true)
+
+![Somil's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somil24&layout=compact)
+
+Viewer Count :
+ ![Visitor Count](https://profile-counter.glitch.me/{somil24}/count.svg)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=somil24&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
