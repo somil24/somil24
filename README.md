@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Somil's github stats](https://github-readme-stats.vercel.app/api?username=somil24&count_private=true&show_icons=true&theme=midnight-purple&hide=contribs,issues)
 
-![Somil's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somil24&layout=compact)
+![Somil's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somil24&layout=compact&theme=midnight-purple)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=somil24&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
